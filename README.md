@@ -110,4 +110,4 @@ It creates a CloudFormation stack named Udagram, with infrastructure described i
 
 # Website Link :
 
-[http://udagram-820382128.us-west-2.elb.amazonaws.com](http://udagram-820382128.us-west-2.elb.amazonaws.com)
+http://elb-udacity-940939194.us-east-1.elb.amazonaws.com
