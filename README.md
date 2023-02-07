@@ -1,8 +1,8 @@
 # Udacity Project nr 2 || Cloud DevOps Engineer
 
-#### Patryk Pawlak thepatrvq@gmail.com
+#### Abhishek Ranjan
 
-For more info go to https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991
+For more info go to https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1.git
 
 ## Deploy a High-Availability Web App using CloudFormation
 
